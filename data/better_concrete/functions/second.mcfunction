@@ -1,8 +1,5 @@
-#
-# Desc.: Hardens concrete powder when thrown into water as item.
-# Called By: #nuhser_core:second
-# @s: <SERVER>
-#
+#> Hardens concrete powder when thrown into water as item.
+# Called By: #nuhser_core:second <SERVER>
 
 execute as @e[type=item,nbt={Item:{id:"minecraft:white_concrete_powder"}}] at @s if block ~ ~ ~ minecraft:water run data merge entity @s {Item:{id:"minecraft:white_concrete"}}
 execute as @e[type=item,nbt={Item:{id:"minecraft:red_concrete_powder"}}] at @s if block ~ ~ ~ minecraft:water run data merge entity @s {Item:{id:"minecraft:red_concrete"}}
