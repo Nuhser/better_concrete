@@ -1,4 +1,4 @@
-# better_concrete (v3.0.0)
+# Better Concrete
 
 ### by Nuhser
 
