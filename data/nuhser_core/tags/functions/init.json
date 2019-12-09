@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "better_concrete:init"
+        "better_concrete:_init"
     ]
 }
