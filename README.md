@@ -4,7 +4,7 @@
 
 <br>
 
-**Requires [nuhser_core 4.0.0](https://github.com/Nuhser/nuhser_core/releases "Nuhser_Core") or newer to be installed first!**
+**Requires [nuhser_core 5.0.0](https://github.com/Nuhser/nuhser_core/releases "Nuhser_Core") or newer to be installed first!**
 
 Nobody likes to convert concrete powder. It's boring and takes to much time.
 
